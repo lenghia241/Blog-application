@@ -1,0 +1,16 @@
+body {
+  margin: 0 50px;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.container {
+  padding: 50px;
+}
+
+.detail-button-wrapper {
+  margin: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
